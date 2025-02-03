@@ -1,0 +1,13 @@
+tipo:Carreras:20000:20.0
+tipo:Fina:30000:10.0
+tipo:Estandar:15000:500.0
+tipo:Normal:10000:2000.0
+surtidor:Alberto:Carreras:0.0:Fina:0.0:Estandar:0.0:Normal:0.0
+surtidor:Rodrigo:Carreras:0.0:Fina:10.0:Estandar:0.0:Normal:0.0
+surtidor:Rodrigo:Carreras:0.0:Fina:0.0:Estandar:0.0:Normal:0.0
+surtidor:Rodrigo:Carreras:0.0:Fina:0.0:Estandar:0.0:Normal:0.0
+empleado:Camila:0
+empleado:Rodrigo:300000
+empleado:Alberto:0
+empleado:Juan:0
+empleado:Andrea:0
